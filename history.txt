@@ -1,0 +1,73 @@
+    1  sudo raspi-config
+    2  Manhatten zoo
+    3  Manhattan zoo 
+    4  git branch Manhattan Zoo
+    5  mkdir Manhattan zoo
+    6  git init
+    7  meal-log.txt
+    8  mkdir manhattan-zoo
+    9  ls
+   10  git init
+   11  git init meal-log.txt
+   12  git "commit" meal-log.txt
+   13  log
+   14  https://github.com/CompSci10/hello-world-git-assignment-eatmyasss.git
+   15  git log
+   16  git clone https://github.com/CompSci10/hello-world-git-assignment-eatmyasss.git
+   17  git log
+   18  git branch
+   19  git clone https://github.com/CompSci10/hello-world-git-assignment-eatmyasss.git
+   20  git clone git@github.com:CompSci10/hello-world-git-assignment-eatmyasss.git
+   21  ls
+   22  git branch my poem
+   23  git branch_my poem
+   24  git branch_branch my poem
+   25  git branch
+   26  nano poem.txt
+   27  ls
+   28  cd hello-world-git-assignment-iampgrated
+   29  git clone https://github.com/CompSci10/hello-world-git-assignment-iampgrated.git
+   30  git branch
+   31  git log
+   32  git branch master
+   33  ls
+   34  ls -a
+   35  pwd
+   36  ls
+   37  rm -rf hello-world-git-assignment-iampgrated/
+   38  cd  hello-world-git-assignment-iampgrated/
+   39  ls
+   40  git status
+   41  git pull
+   42  nano poem.txt 
+   43  git status
+   44  git add .
+   45  git commit -m "Just testing funcationality of repos"
+   46  git config --global user.email "krazykoala1115@gmail.com
+   47  git config user.email "krazykoala1115@gmail.com"
+   48  git config user.name "iampgrated"
+   49  git clone git@github.com:CompSci10/hello-world-git-assignment-iampgrated.git
+   50  ls
+   51  cd hello-world-git-assignment-iampgrated
+   52  ls
+   53  cd hello-world-git-assignment-iampgrated
+   54  nano 
+   55  nano poem.txt
+   56  poem.txt nano
+   57  nanopoem.tx
+   58  nano poem.txt
+   59  ,ls
+   60  ls
+   61  cd hello-world-git-assignment-iampgrated
+   62  branch
+   63  git branch
+   64  nano poem.txt
+   65  git add poem.txt
+   66  git commit poem.txt -m "poof its cured"
+   67  git tag -l version2
+   68  git tag
+   69  git tag -a version2
+   70  git tag
+   71  git checkout master
+   72  git merge myPoem
+   73  history > history.txt
